@@ -19,7 +19,7 @@ This project analyzes customer shopping behavior using transactional data from 3
 
 ## 🛠️ Tools & Technologies
 - Python (pandas, numpy)
-- PostgreSQL
+- MySQL
 - SQL
 - Power BI
 - Excel
